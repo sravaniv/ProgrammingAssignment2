@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-
+## Sravani
 ## Used the example code and changed the mean to solve
 
 makeCacheMatrix <- function(x = matrix()) {
